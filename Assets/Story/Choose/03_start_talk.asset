@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 03_start_talk
+  m_EditorClassIdentifier: 
+  labels:
+  - text: hey david. what's going on? where are we?
+    nextScene: {fileID: 11400000, guid: 593f4d57997334090ac80b3d1af0b367, type: 2}
+  - text: betty, what's up? you look terrified
+    nextScene: {fileID: 11400000, guid: 322cc1a5845dec844a3dab162f68e0ff, type: 2}
+  - text: hmm.. let's take a look around before anything
+    nextScene: {fileID: 11400000, guid: 322cc1a5845dec844a3dab162f68e0ff, type: 2}

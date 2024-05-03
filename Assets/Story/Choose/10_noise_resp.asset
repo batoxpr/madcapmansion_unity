@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 10_noise_resp
+  m_EditorClassIdentifier: 
+  labels:
+  - text: you're right david.. let's open the bedroom door first
+    nextScene: {fileID: 11400000, guid: 35772d1d2617d4398a9c9fa3c168bc8b, type: 2}
+  - text: hear me out guys! jennie might have dropped her bracelet on the way to
+      the bathroom.
+    nextScene: {fileID: 11400000, guid: eebaf7db192e147409acd269c06062ba, type: 2}
+  - text: hmm.. that did kind of sound like jennie.. why don't we go downstairs first?
+    nextScene: {fileID: 11400000, guid: 02f9d9549f13640539cde9ecc61f3b9d, type: 2}

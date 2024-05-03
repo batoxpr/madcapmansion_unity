@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 12_downstairs_resp
+  m_EditorClassIdentifier: 
+  labels:
+  - text: guys.. come on. we gotta put an end to the argument and collaborate if
+      we wanna make out of here alive. do you agree or not?
+    nextScene: {fileID: 11400000, guid: 2968726f5f38d4344bcf615754833a61, type: 2}
