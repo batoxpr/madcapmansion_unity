@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 16_basement_choice
+  m_EditorClassIdentifier: 
+  title: Do you want to continue to the basement?
+  labels:
+  - text: hey, maybe kitchen wasn't a bad idea after all..
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: 0e8a263ee591847bb9799004106da7e1, type: 2}
+  - text: yolo. let's give it a try. help me open this door, guys!
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: d7b58921f3c7b48e1bf03c423b7a86ac, type: 2}
+  - text: nevermind, let's go back to the stairs
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: 4480e3cc246b144a28845615ef8ed0e8, type: 2}

@@ -15,8 +15,8 @@ MonoBehaviour:
   speakerName: 'David:'
   textColor: {r: 0, g: 0.40720105, b: 1, a: 1}
   sprites:
-  - {fileID: 21300000, guid: 211ec0c135b1a4249a4eda52b8766b4e, type: 3}
-  - {fileID: 21300000, guid: d8451a61ad273ea41aea930d7a205f78, type: 3}
-  - {fileID: 21300000, guid: 8d2e0ee264906b84aaee28bedfcef7eb, type: 3}
-  - {fileID: 21300000, guid: b01e4f67fd4f34f4fac63d223121ddcc, type: 3}
-  prefab: {fileID: -400084230080365608, guid: b63e65cd1c58ac24dbd937d543b10442, type: 3}
+  - {fileID: 21300000, guid: dcd9b534881a4bd42b7000abe153cf55, type: 3}
+  - {fileID: 21300000, guid: 0e88470c23736a0479834ee13f13c7a7, type: 3}
+  - {fileID: 21300000, guid: b5d05def43c292a4b9637ad3aabe9085, type: 3}
+  - {fileID: 21300000, guid: 1aae73402f84b46419da58c43de89a42, type: 3}
+  prefab: {fileID: -400084230080365608, guid: 457617aac23b84394822072515bf1519, type: 3}

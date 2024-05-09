@@ -148,8 +148,8 @@
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 98,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/Users/batoxpr/Documents/GitHu",
+      "PayloadLength": 42,
+      "PayloadDebugContentSnippet": "/Users/batoxpr/Desktop/madcapm",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -160,7 +160,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 235,
+      "PayloadOffset": 224,
       "PayloadLength": 33738,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -173,9 +173,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 34058,
-      "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Docum",
+      "PayloadOffset": 34047,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Deskt",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp2"
@@ -1900,7 +1900,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 34218,
+      "PayloadOffset": 34196,
       "PayloadLength": 7267,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2101,9 +2101,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 41589,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/Users/batoxpr/Documents/GitHu",
+      "PayloadOffset": 41567,
+      "PayloadLength": 42,
+      "PayloadDebugContentSnippet": "/Users/batoxpr/Desktop/madcapm",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -2114,7 +2114,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 41726,
+      "PayloadOffset": 41693,
       "PayloadLength": 30570,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2127,9 +2127,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 72381,
-      "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Docum",
+      "PayloadOffset": 72348,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Deskt",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp2"
@@ -2460,7 +2460,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 72541,
+      "PayloadOffset": 72497,
       "PayloadLength": 7423,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2665,9 +2665,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 80071,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/Users/batoxpr/Documents/GitHu",
+      "PayloadOffset": 80027,
+      "PayloadLength": 42,
+      "PayloadDebugContentSnippet": "/Users/batoxpr/Desktop/madcapm",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2678,7 +2678,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 80211,
+      "PayloadOffset": 80156,
       "PayloadLength": 31853,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2691,9 +2691,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 112152,
-      "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Docum",
+      "PayloadOffset": 112097,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Deskt",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -3029,7 +3029,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 112315,
+      "PayloadOffset": 112249,
       "PayloadLength": 7417,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3234,9 +3234,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 119846,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/Users/batoxpr/Documents/GitHu",
+      "PayloadOffset": 119780,
+      "PayloadLength": 42,
+      "PayloadDebugContentSnippet": "/Users/batoxpr/Desktop/madcapm",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -3247,7 +3247,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 119993,
+      "PayloadOffset": 119916,
       "PayloadLength": 32136,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3260,9 +3260,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152224,
-      "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Docum",
+      "PayloadOffset": 152147,
+      "PayloadLength": 55,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/batoxpr/Deskt",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -3593,7 +3593,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152394,
+      "PayloadOffset": 152306,
       "PayloadLength": 7576,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3802,9 +3802,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160075,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/Users/batoxpr/Documents/GitHu",
+      "PayloadOffset": 159987,
+      "PayloadLength": 42,
+      "PayloadDebugContentSnippet": "/Users/batoxpr/Desktop/madcapm",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -3815,7 +3815,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160213,
+      "PayloadOffset": 160114,
       "PayloadLength": 27280,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3828,7 +3828,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 187579,
+      "PayloadOffset": 187480,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -4123,7 +4123,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 187674,
+      "PayloadOffset": 187575,
       "PayloadLength": 7412,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4477,7 +4477,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"/Applications/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/Library/ScriptAssemblies/UnityEngine.UI.dll\" -s=\"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/Library/ScriptAssemblies\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/batoxpr/Desktop/madcapmansion_unity/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/batoxpr/Desktop/madcapmansion_unity/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/batoxpr/Desktop/madcapmansion_unity/Library/ScriptAssemblies/UnityEngine.UI.dll\" -s=\"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/batoxpr/Desktop/madcapmansion_unity/Library/ScriptAssemblies\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -4616,7 +4616,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/getconf"
+      "File": "/Users/batoxpr/Desktop/madcapmansion_unity/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -4672,6 +4672,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/200b0aE.dag.json",
-  "PayloadsFile": "/Users/batoxpr/Documents/GitHub/gamesandplay_final v1/Library/Bee/200b0aE.dag.payloads",
+  "PayloadsFile": "/Users/batoxpr/Desktop/madcapmansion_unity/Library/Bee/200b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

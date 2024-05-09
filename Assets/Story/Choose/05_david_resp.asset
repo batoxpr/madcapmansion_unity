@@ -12,8 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
   m_Name: 05_david_resp
   m_EditorClassIdentifier: 
+  title: Who do you trust to come up with a plan?
   labels:
   - text: david!! calm down bro, so what's the plan?
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: 98b672cd84cd042f4a7a188b7522eb7c, type: 2}
   - text: betty, my friend.. you better figure something out!!
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: e49ff8b3e9d38a644b6bb73e0ed39ffa, type: 2}

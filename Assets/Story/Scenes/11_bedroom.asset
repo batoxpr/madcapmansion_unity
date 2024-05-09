@@ -14,38 +14,58 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - text: oh god.. look at all these spiders! disgustiNg!!!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: e9caf1c7f83034c0bafc8e8dda4eab8f, type: 3}
     speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 3
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
       actionType: 1
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 3
       coords: {x: 400, y: 0}
       moveSpeed: 0
-    music: {fileID: 0}
-    sound: {fileID: 0}
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 1bab913ba07ce49419b1a01a00d89ee2, type: 3}
+    sound: {fileID: 8300000, guid: cc92b3b3d5c1d474fbe5ed75113f8ebf, type: 3}
   - text: jennie.... JENNIEE...  JENNIEEEEE... ARE YOU HERE?
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: bf8de66e102ca41699129f495744fd68, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: why are you shouting in CAPS as if that's gonna save us? jennie is clearly
       not in this room... unless you know a spider named jennie. this is so futile.
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 3ae3ddf92e3174c018b891b74d4be48e, type: 3}
     speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  background: {fileID: 21300000, guid: 53931a5dc2d81419eb22d0171f07508c, type: 3}
+  background: {fileID: 21300000, guid: 48adf2b1a021d1343878d9a44e2c6b66, type: 3}
   nextScene: {fileID: 11400000, guid: 3bf0baed7f27846c7815fc908a373118, type: 2}

@@ -12,11 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
   m_Name: 10_noise_resp
   m_EditorClassIdentifier: 
+  title: Where do you want to go to?
   labels:
   - text: you're right david.. let's open the bedroom door first
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: 35772d1d2617d4398a9c9fa3c168bc8b, type: 2}
   - text: hear me out guys! jennie might have dropped her bracelet on the way to
       the bathroom.
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: eebaf7db192e147409acd269c06062ba, type: 2}
   - text: hmm.. that did kind of sound like jennie.. why don't we go downstairs first?
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: 02f9d9549f13640539cde9ecc61f3b9d, type: 2}

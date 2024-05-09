@@ -15,8 +15,8 @@ MonoBehaviour:
   speakerName: 'Betty:'
   textColor: {r: 1, g: 0.4109319, b: 0, a: 1}
   sprites:
-  - {fileID: 21300000, guid: 211ec0c135b1a4249a4eda52b8766b4e, type: 3}
-  - {fileID: 21300000, guid: d8451a61ad273ea41aea930d7a205f78, type: 3}
-  - {fileID: 21300000, guid: 8d2e0ee264906b84aaee28bedfcef7eb, type: 3}
-  - {fileID: 21300000, guid: b01e4f67fd4f34f4fac63d223121ddcc, type: 3}
-  prefab: {fileID: -400084230080365608, guid: b63e65cd1c58ac24dbd937d543b10442, type: 3}
+  - {fileID: 21300000, guid: 083c4ce1ba46feb49ac6cbf69888b9fd, type: 3}
+  - {fileID: 21300000, guid: 08bc119ea2f4b7749b0ea82a0f7c9010, type: 3}
+  - {fileID: 21300000, guid: 740be07eba582a549813aefb8e815731, type: 3}
+  - {fileID: 21300000, guid: 30f48e951b193e54dbdd6f4278fc2cd3, type: 3}
+  prefab: {fileID: -400084230080365608, guid: d9d77e4fb96a849dda5b433c71fbf89b, type: 3}

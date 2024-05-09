@@ -12,10 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
   m_Name: 14_argument_resp
   m_EditorClassIdentifier: 
+  title: Where do you want to go to?
   labels:
   - text: hmm, let's go to the Kitchen then.
-    nextScene: {fileID: 11400000, guid: 2968726f5f38d4344bcf615754833a61, type: 2}
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: 0e8a263ee591847bb9799004106da7e1, type: 2}
   - text: okay, why don't we check out the Basement
-    nextScene: {fileID: 11400000, guid: 2968726f5f38d4344bcf615754833a61, type: 2}
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: a1e44f3782cb849dc842771b24a91f6a, type: 2}
   - text: is there something we missed on the Staircase?
-    nextScene: {fileID: 11400000, guid: 2968726f5f38d4344bcf615754833a61, type: 2}
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: 4480e3cc246b144a28845615ef8ed0e8, type: 2}

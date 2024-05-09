@@ -15,37 +15,52 @@ MonoBehaviour:
   sentences:
   - text: ' hmm..  i hEard some strange noise coming from downstairs earlier. maybe
       we can go there and check out?'
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 1605bca299d1c46168bc8e8799334ac8, type: 3}
     speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 3
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
       actionType: 1
-      coords: {x: 400, y: 0}
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
       moveSpeed: 0
     music: {fileID: 8300000, guid: cfd9b775032f1b44a8309d0a5239016a, type: 3}
     sound: {fileID: 0}
   - text: no freaking way.. you're gonna set us up for failure. we better check the
       bedrooms on this floor. i have a hunch that jennie is in one of those rooms..
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 66a7f27a6339f42e29f2372349cdb6fb, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: '"hunch"?? we need to act based on EVIDENCE here. we should make sure what
       that noise was about. '
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: b359613aa248646df8a0a65499f85f99, type: 3}
     speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
       actionType: 3
-      coords: {x: 0, y: 0}
+      coords: {x: -500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}

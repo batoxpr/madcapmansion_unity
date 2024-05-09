@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 16_kitchen_choice
+  m_EditorClassIdentifier: 
+  title: Do you want to explore the fridge?
+  labels:
+  - text: fine. let's open this fridge.
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: c7a46d59e5b4f4caba19bee58819bdd8, type: 2}
+  - text: this is sketchy. why don't we head back upstairs?
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
+    nextScene: {fileID: 11400000, guid: 4480e3cc246b144a28845615ef8ed0e8, type: 2}

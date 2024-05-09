@@ -14,60 +14,50 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - text: alex!! bro.. i almoSt thought you were dead!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: c13d283366ff745c9b97466620ab8a9f, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 1
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 0
       actionType: 1
-      coords: {x: 400, y: 0}
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: -100, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: 'we''re trapped in this creepy mansion because betty decided that it was
       a good idea to visit an abandoned building. '
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 3222402ead3614b59b19200e9c251925, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 2
-      actionType: 0
-      coords: {x: 0, y: 0}
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -100, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: i know it's halloween night and all, but jesus christ!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: a46922d5c8b5e41cca90eb23bdad9f48, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
-    actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 2
-      actionType: 0
-      coords: {x: 0, y: 0}
-      moveSpeed: 0
+    actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: 'as soon as we entered the building, jennie has disappeared with no trace.
       i should''ve seen this coming. '
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 153588edf12f74c52a326e3eb7903778, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
-    actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 2
-      actionType: 0
-      coords: {x: 0, y: 0}
-      moveSpeed: 0
+    actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
-  - text: now we need to find jennie and get the f*ck out of here.
-    audio: {fileID: 0}
+  - text: now we need to find jennie and get the f*ck out of here. ->
+    audio: {fileID: 8300000, guid: f8593e2d504024598845adea86593e88, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
-    actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 2
-      actionType: 0
-      coords: {x: 0, y: 0}
-      moveSpeed: 0
+    actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
   background: {fileID: 21300000, guid: 4e5ef5f580f944ac2b49eb612e6b3bba, type: 3}

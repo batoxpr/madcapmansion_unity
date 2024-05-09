@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
   m_Name: 07_hallway_resp
   m_EditorClassIdentifier: 
+  title: Who do you want to trust?
   labels:
   - text: david.. are you sure about the bedrooms bro? why don't we go to the hallway
       first?
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: 0bbd62d04d67043efab8183c96ae3b50, type: 2}
   - text: ' betty.. you might be right.. but let''s go to the hallway first.'
+    audio: {fileID: 0}
+    music: {fileID: 0}
+    sound: {fileID: 0}
     nextScene: {fileID: 11400000, guid: 0bbd62d04d67043efab8183c96ae3b50, type: 2}

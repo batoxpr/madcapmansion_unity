@@ -6,12 +6,17 @@ using UnityEngine;
 [System.Serializable]
 public class ChooseScene : GameScene
 {
+    public string title;  // Add a field for the title
     public List<ChooseLabel> labels;
     
     [System.Serializable]
     public struct ChooseLabel
     {
         public string text;
+        public AudioClip audio;
+        public AudioClip music;
+        public AudioClip sound;
+
         public StoryScene nextScene;
     }
 }

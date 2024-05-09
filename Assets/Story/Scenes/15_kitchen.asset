@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 15_kitchen
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: as you enter the kitchen, you see an old refigerator.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 479ae9970026e4410b897ae9fd42a776, type: 3}
+  - text: I know this doesn't seem very inviting, but you know what they say? confront
+      your fears.
+    audio: {fileID: 8300000, guid: c1e7e0ee5ebc54423a3a06b084f2a3fe, type: 3}
+    speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 400, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: ca144fdd7fc164205936d3e88abe8de0, type: 3}
+  nextScene: {fileID: 11400000, guid: 8799d8c8d3660442ea73174c370ac6bd, type: 2}

@@ -45,7 +45,7 @@ MonoBehaviour:
       moveSpeed: 0
     music: {fileID: 8300000, guid: dbbe624fecf94430389bdaa7381bb673, type: 3}
     sound: {fileID: 0}
-  - text: betty and david. they seem awfully quiet
+  - text: betty and david. they seem awfully quiet. ->
     audio: {fileID: 0}
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
     actions:

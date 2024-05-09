@@ -14,50 +14,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - text: 'hey!! isn''t that jennie''s bracelet? outside that door? i told you!! '
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 41fc782144e7a4a82a98cda21497ca84, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 3
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
       actionType: 1
-      coords: {x: 400, y: 0}
+      coords: {x: -500, y: 0}
       moveSpeed: 0
     music: {fileID: 0}
-    sound: {fileID: 0}
+    sound: {fileID: 8300000, guid: 479ae9970026e4410b897ae9fd42a776, type: 3}
   - text: she is definitely inside that bedroom!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 69c7809622c584787b550e13c2744ef9, type: 3}
     speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
-    actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+    actions: []
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: hey, just because her bracelet is here, that doesn't mean she is inside
       duMmy! this place is like a maze.  if anything, she might've dropped it while
       passing by. think twice!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: dfc6c258e123b4317be306133127ac4c, type: 3}
     speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
     actions:
-    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
   - text: easy with the arguing you two! at least we found some clue!
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: e50b61451cca24518bbd75919dd60e7d, type: 3}
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
     actions:
+    - speaker: {fileID: 11400000, guid: 33caa19d1f3e04ba9942fa536c95019d, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
     - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-      spriteIndex: 0
-      actionType: 2
-      coords: {x: 0, y: 0}
-      moveSpeed: 2.5
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 400, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fe32b188812d14858a895c0c031144bb, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
     music: {fileID: 0}
     sound: {fileID: 0}
-  background: {fileID: 21300000, guid: 53931a5dc2d81419eb22d0171f07508c, type: 3}
+  background: {fileID: 21300000, guid: 085ab76002e64d948b745468ff0dd667, type: 3}
   nextScene: {fileID: 11400000, guid: 98ceb29315d2b4d3bba70d4418b20c5e, type: 2}
